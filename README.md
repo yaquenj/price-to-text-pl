@@ -1,5 +1,5 @@
 # price-to-text-pl
-
+A simple bun / node.js polish digital price to written price converter.
 ## To install module:
 <!--
     ? BUN
