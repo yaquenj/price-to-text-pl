@@ -1,3 +1,4 @@
+![Downloads](https://img.shields.io/npm/dt/price-to-text-pl)
 # price-to-text-pl
 A simple bun / node.js polish digital price to written price converter.
 ## To install module:
