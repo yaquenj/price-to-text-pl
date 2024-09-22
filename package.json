@@ -1,0 +1,13 @@
+{
+  "name": "price-to-text-pl",
+  "module": "index.ts",
+  "type": "module",
+  "types": "index.d.ts",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/node": "^22.5.5"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
