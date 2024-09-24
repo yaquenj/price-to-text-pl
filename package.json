@@ -2,8 +2,9 @@
   "name": "price-to-text-pl",
   "module": "index.ts",
   "description": "A simple bun / node.js polish digital price to written price converter.",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "index.ts",
+  "license": "MIT",
   "repository": {
     "url": "https://github.com/yaquenj/price-to-text-pl.git"
   },
